@@ -1,0 +1,108 @@
+#For vsftpd services
+/var/log/vsftpd.log
+/var/log/ftp/vsftpd.log
+/var/log/vsftpd/vsftpd.log
+/var/log/vsftpd.access_log
+/etc/vsftpd/vsftpd.log
+/usr/local/etc/vsftpd.log
+/home/ftp/log/vsftpd.logs
+/home/ftp/logs/vsftpd.logs
+/opt/vsftpd/log/vsftpd.log
+/opt/vsftpd/logs/vsftpd.log
+/var/adm/log/vsftpd.log
+/var/adm/logs/vsftpd.log
+/etc/vsftpd.conf
+/etc/vsftpd/vsftpd.conf
+/etc/vsftpd/vsftpd.conf.local
+/etc/vsftpd/vsftpd.conf.d/vsftpd.conf
+/usr/local/etc/vsftpd.conf
+/usr/local/etc/vsftpd/vsftpd.conf
+/opt/vsftpd/etc/vsftpd.conf
+/opt/vsftpd/etc/vsftpd/vsftpd.conf
+/var/etc/vsftpd.conf
+/var/etc/vsftpd/vsftpd.conf
+
+#For proftpd service
+/var/log/proftpd.log
+/var/log/ftp/proftpd.log
+/var/log/proftpd/proftpd.log
+/var/log/proftpd.access_log
+/etc/proftpd/proftpd.log
+/usr/local/etc/proftpd.log
+/home/ftp/log/proftpd.log
+/home/ftp/logs/proftpd.log
+/opt/proftpd/log/proftpd.log
+/opt/proftpd/logs/proftpd.log
+/var/adm/log/proftpd.log
+/var/adm/logs/proftpd.log
+/etc/proftpd.conf
+/etc/proftpd/proftpd.conf
+/etc/proftpd/proftpd.conf.local
+/etc/proftpd/proftpd.conf.d/proftpd.conf
+/usr/local/etc/proftpd.conf
+/usr/local/etc/proftpd/proftpd.conf
+/opt/proftpd/etc/proftpd.conf
+/opt/proftpd/etc/proftpd/proftpd.conf
+/var/etc/proftpd.conf
+/var/etc/proftpd/proftpd.conf
+
+#For pure-ftpd service
+/var/log/pure-ftpd.log
+/var/log/ftp/pure-ftpd.log
+/var/log/pure-ftpd/pure-ftpd.log
+/var/log/pure-ftpd.access_log
+/etc/pure-ftpd/pure-ftpd.log
+/usr/local/etc/pure-ftpd.log
+/home/ftp/log/pure-ftpd.logs
+/home/ftp/logs/pure-ftpd.logs
+/opt/pure-ftpd/log/pure-ftpd.log
+/opt/pure-ftpd/logs/pure-ftpd.log
+/var/log/pure-ftpd.log
+/var/logs/pure-ftpd.log
+/etc/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.conf.local
+/etc/pure-ftpd/pure-ftpd.conf.d/pure-ftpd.conf
+/usr/local/etc/pure-ftpd.conf
+/usr/local/etc/pure-ftpd/pure-ftpd.conf
+/opt/pure-ftpd/etc/pure-ftpd.conf
+/opt/pure-ftpd/etc/pure-ftpd/pure-ftpd.conf
+/var/etc/pure-ftpd.conf
+/var/etc/pure-ftpd/pure-ftpd.conf
+
+#For exfer_log
+/var/log/proftpd/xferlog
+/var/log/vsftpd/xferlog
+/var/log/pure-ftpd/xferlog
+/var/log/proftpd/xferlog.legacy
+/var/log/vsftpd/xferlog.legacy
+/var/log/pure-ftpd/xferlog.legacy
+/var/log/xferlog
+/var/logs/xferlog
+/var/adm/log/xferlog
+
+#For FileZilla
+C:/xampp/FileZilla Server/Logs
+C:/xampp/FileZillaFTP/FileZilla Server/Logs
+C:/xampp/FileZillaFTP/FileZilla Server.log
+C:/wamp/FileZilla Server/Logs
+C:/wamp/FileZillaFTP/FileZilla Server/Logs
+C:/wamp/FileZillaFTP/FileZilla Server.log
+C:/Program Files/FileZilla Server/Logs
+C:/Program Files/FileZilla Server/FileZilla Server.log
+C:/Program Files (x86)/FileZilla Server/Logs
+C:/Program Files (x86)/FileZilla Server/FileZilla Server.log
+C:/Program Files/FileZillaFTP/FileZilla Server/Logs
+C:/Program Files/FileZillaFTP/FileZilla Server.log
+C:/Program Files (x86)/FileZillaFTP/FileZilla Server/Logs
+C:/Program Files (x86)/FileZillaFTP/FileZilla Server.log
+C:/Program Files/FileZillaFTP/FileZilla Server.xml
+C:/Program Files (x86)/FileZillaFTP/FileZilla Server.xml
+C:/xampp/FileZilla Server.xml
+C:/xampp/FileZilla Server/FileZilla Server.xml
+C:/xampp/FileZillaFTP/FileZilla Server/FileZilla Server.xml
+C:/xampp/FileZillaFTP/FileZilla Server.xml
+C:/wamp/FileZilla Server.xml
+C:/wamp/FileZilla Server/FileZilla Server.xml
+C:/wamp/FileZillaFTP/FileZilla Server/FileZilla Server.xml
+C:/wamp/FileZillaFTP/FileZilla Server.xml
