@@ -20,8 +20,6 @@
 /usr/local/etc/sshd.log
 /usr/local/etc/rsyslog.conf
 
-
-
 #For vsftpd services
 /var/log/vsftpd.log
 /var/log/ftp/vsftpd.log
