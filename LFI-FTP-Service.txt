@@ -102,6 +102,14 @@ C:/xampp/FileZilla Server.xml
 C:/xampp/FileZilla Server/FileZilla Server.xml
 C:/xampp/FileZillaFTP/FileZilla Server/FileZilla Server.xml
 C:/xampp/FileZillaFTP/FileZilla Server.xml
+
+#For MSFTPSVC
+C:/WINNT/system32/logfiles/MSFTPSVC
+C:/WINNT/system32/logfiles/MSFTPSVC1
+C:/WINNT/system32/logfiles/MSFTPSVC2
+C:/WINDOWS/system32/logfiles/MSFTPSVC
+C:/WINDOWS/system32/logfiles/MSFTPSVC1
+C:/WINDOWS/system32/logfiles/MSFTPSVC2
 C:/wamp/FileZilla Server.xml
 C:/wamp/FileZilla Server/FileZilla Server.xml
 C:/wamp/FileZillaFTP/FileZilla Server/FileZilla Server.xml
