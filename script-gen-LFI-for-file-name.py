@@ -1,5 +1,5 @@
 def generate_paths_from_user_input_and_save_to_file(output_file_path):
-    print("Enter file names (type 'DONE' when finished):")
+    print("Paste all the file names in here (Don't forget to type 'DONE' when finished):")
     file_names = []
     while True:
         line = input()
