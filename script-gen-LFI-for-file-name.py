@@ -1,3 +1,6 @@
+#This script can help generate the LFI path `../$file_name` up to 10 level. 
+#Just provide it the list of file name by paste directly to the script
+
 def generate_paths_from_user_input_and_save_to_file(output_file_path):
     print("Paste all the file names in here (Don't forget to type 'DONE' when finished):")
     file_names = []
