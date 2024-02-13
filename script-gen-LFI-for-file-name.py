@@ -10,7 +10,7 @@ def generate_paths_from_user_input_and_save_to_file(output_file_path):
     with open(output_file_path, 'w') as file:  # Open file for writing
         for file_name in file_names:
             # Generate each line with increasing "../" prefixes
-            for i in range(9):  # Including the original file and 8 more levels
+            for i in range(11):  # Including the original file and 10 more levels
                 file.write(f"{'../' * i}{file_name}\n")  # Write to file
 
 # Specify the output file path
