@@ -77,3 +77,6 @@ Windows%%32%66win.ini
 ..;/Windows/win.ini
 .//Windows/win.ini
 ..;/Windows/win.ini
+..;\Windows\win.ini
+.\\Windows\win.ini
+..;\Windows\win.ini
