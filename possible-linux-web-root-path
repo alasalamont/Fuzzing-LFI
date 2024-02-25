@@ -2,8 +2,15 @@
 /var/www/html/
 /var/www/html/public/
 /var/www/html/public_html/
+/var/www/html/sandbox/
 /var/www/html/sandbox/public/
 /var/www/html/sandbox/public_html/
+/var/www/html/dev/
+/var/www/html/dev/public/
+/var/www/html/dev/public_html/
+/var/www/html/staging/
+/var/www/html/staging/public/
+/var/www/html/staging/pulic_html/
 /var/www/html/default/
 /var/www/html/default/public/
 /var/www/html/default/puclic_html/
